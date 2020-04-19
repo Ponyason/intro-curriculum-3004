@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Mari Miyata <mi.ma.11280@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:Ponyason/intro-curriculum-3004.git",
+  "dependencies": {
+    "sum": "../intro-curriculum-3004"
+  }
 }
